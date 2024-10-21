@@ -1,6 +1,4 @@
-# Interactive-Cookie-Sales-Report
-
-<h1>Performance Cookie sales Dashboard</h1>
+<h1>Performance Cookie sales Dashboard (Interactive-Cookie-Sales-Report) </h1>
 
 <h2>Title: Company Sales & Performance Dashboard</h2>
 Introduction:
